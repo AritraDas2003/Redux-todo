@@ -4,6 +4,8 @@ A simple todo in react
 
 Justa a simple todo I made for learning RTK fell free to further modify it
 
+<img src="">
+
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
