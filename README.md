@@ -1,8 +1,51 @@
-# React + Vite
+# React Todo Using Redux Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple todo in react
 
-Currently, two official plugins are available:
+Justa a simple todo I made for learning RTK fell free to further modify it
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+These instructions will give you a copy of the project up and running on
+your local machine for development and testing purposes. See deployment
+for notes on deploying the project on a live system.
+
+### Prerequisites
+
+Requirements for the software and other tools to build, test and push 
+- [Node JS](https://nodejs.org/en)
+- [Vite](https://vitejs.dev/)
+
+### Installing
+
+A step by step series of examples that tell you how to get a development
+environment running
+
+First Install NodeJs 
+
+    npm install
+
+Run the project 
+
+    npm run dev
+
+End with an example of getting some data out of the system or using it
+for a little demo
+
+
+
+## Built With
+
+  - [Redux Toolkit](https://redux-toolkit.js.org/)
+   
+  - [Tailwind Css](https://tailwindcss.com/)  - Used to choose
+    the license
+
+
+
+
+## Authors
+
+  - **Aritra Das** 
+  
+
