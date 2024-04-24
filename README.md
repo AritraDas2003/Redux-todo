@@ -4,7 +4,7 @@ A simple todo in react
 
 Justa a simple todo I made for learning RTK fell free to further modify it
 
-<img src="">
+<img src="./appImage.png">
 
 ## Getting Started
 
